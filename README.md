@@ -1,8 +1,8 @@
 # Lista ToDo
 
-Lista zadań do wykonania. Stworzony podczas nauki JQuery. <br>
+Lista zadań do wykonania. Stworzona podczas nauki JQuery. <br>
 
-Wykorzystuję następujące technologie:
+Projekt wykorzystuję następujące technologie:
 <ul>
 <li> HTML5 </li>
 <li> CSS3, </li>
