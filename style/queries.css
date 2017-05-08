@@ -1,0 +1,205 @@
+/* Extra Large */
+
+@media only screen and (min-width: 1201px){
+
+    section {
+        width: 60%;
+    }
+
+    .toWrite > input, .list li {
+
+        width: 60%;
+    }
+    .btn {
+        right: 10%;
+    }
+
+    .toWrite, .list ul {
+        align-items: center;
+    }
+
+
+    .title {
+        font-size: 4rem;
+    }
+
+    .list li {
+        width: 60%;
+    }
+    .date {
+        font-size: 3rem;
+        padding-left: 4rem;
+    }
+    .date p:first-of-type {
+        font-size: 8rem;
+    }
+
+
+}
+
+@media only screen and (max-width: 1200px){
+    section {
+        width: 70%;
+    }
+
+    .toWrite > input, .list li {
+
+        width: 60%;
+    }
+    .btn {
+        right: 10%;
+    }
+
+    .toWrite, .list ul {
+        align-items: center;
+    }
+
+    .title {
+        font-size: 4rem;
+    }
+
+    .date {
+        font-size: 3rem;
+        padding-left: 4rem;
+    }
+    .date p:first-of-type {
+        font-size: 8rem;
+    }
+}
+
+@media (max-width: 992px){
+    section {
+        width: 80%;
+    }
+
+    .toWrite > input, .list li {
+
+        width: 60%;
+    }
+    .btn {
+        right: 10%;
+    }
+
+    .toWrite, .list ul {
+        align-items: center;
+    }
+
+    .title {
+        font-size: 4rem;
+    }
+
+    .date {
+        font-size: 3rem;
+    }
+    .date p:first-of-type {
+        font-size: 7rem;
+        margin-top: 1.3rem;
+    }
+}
+
+@media  (max-width: 767px){
+    section {
+        width: 90%;
+    }
+
+    .toWrite > input, .list li {
+
+        width: 70%;
+    }
+    .btn {
+        right: 10%;
+    }
+
+    .toWrite, .list ul {
+        align-items: start;
+        margin-left: 10%;
+    }
+
+    .title {
+        font-size: 3.5rem;
+    }
+
+    .date {
+        font-size: 3rem;
+    }
+    .date p:first-of-type {
+        font-size: 6rem;
+        margin-top: 1.5rem;
+    }
+
+
+
+}
+
+
+@media  (max-width: 576px){
+    section {
+        width: 100%;
+    }
+
+    .toWrite > input {
+
+        width: 80%;
+    }
+    .btn {
+        right: 4%;
+    }
+
+    .toWrite, .list ul {
+        align-items: start;
+        margin-left: 4%;
+    }
+    .list li {
+        width: 80%;
+    }
+
+    .title {
+        font-size: 3rem;
+    }
+
+    .date {
+        font-size: 2rem;
+        padding-left: 2rem;
+    }
+    .date p:first-of-type {
+        font-size: 4rem;
+    }
+
+    .date p:first-of-type {
+        margin-top: 3.7rem;
+    }
+
+
+}
+
+@media  (max-width: 430px){
+
+    .toWrite > input {
+
+        width: 75%;
+    }
+
+    .btn {
+        right: 3%;
+    }
+
+    .toWrite, .list ul {
+        align-items: start;
+        margin-left: 3%;
+    }
+
+    .list li {
+        width: 75%;
+    }
+
+    .title {
+        font-size: 2.5rem;
+    }
+
+    .date p:first-of-type {
+        margin-top: 2.8rem;
+    }
+
+}
+
+
