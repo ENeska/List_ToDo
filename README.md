@@ -9,4 +9,4 @@ Projekt wykorzystuję następujące technologie:
 <li> JQuery.</li>
 </ul>
 
-Link: https://eneska.github.io/List_ToDo/
+Link: https://eneska.github.io/Project_5/
